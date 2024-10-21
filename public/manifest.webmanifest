@@ -1,0 +1,27 @@
+{
+  "theme_color": "#201e1f",
+  "background_color": "#201e1f",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "WakandaBets",
+  "short_name": "Wakanda",
+  "description": "Wakanda Betting next app",
+  "icons": [
+    {
+      "src": "/img/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

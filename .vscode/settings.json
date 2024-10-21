@@ -1,0 +1,50 @@
+{
+  "editor.formatOnSave": true,
+  "editor defaultFormatter": "esbenp-prettier-vscode",
+  "git.enableSmartcommit": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.sortMembers": "explicit",
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+
+  "cSpell.enabled": true,
+  "cSpell.logLevel": "Debug",
+  "editor.tabSize": 2,
+
+  "cSpell.words": [
+    "apdex",
+    "azuro",
+    "Betslip",
+    "camelcase",
+    "chiliz",
+    "Chiliz",
+    "CLOUDINARY",
+    "clsx",
+    "destr",
+    "Flipkart",
+    "Freebet",
+    "Freebets",
+    "Giftcard",
+    "giftcards",
+    "lucide",
+    "mailgun",
+    "nocase",
+    "Prematch",
+    "rainbowkit",
+    "Subdocument",
+    "Swipeable",
+    "viem",
+    "wagmi",
+    "Wakanda",
+    "WALLETCONNECT",
+    "webp"
+  ],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnType": false,
+  "editor.formatOnPaste": true
+}

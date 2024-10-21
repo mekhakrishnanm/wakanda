@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "usernamehw.errorlens",
+    "yoavbls.pretty-ts-errors",
+    "christian-kohler.path-intellisense",
+    "christian-kohler.npm-intellisense",
+    "dsznajder.es7-react-js-snippets",
+    "chakrounanas.turbo-console-log",
+    "streetsidesoftware.code-spell-checker",
+    "antfu.file-nesting",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "aaron-bond.better-comments",
+    "naumovs.color-highlight",
+    "donjayamanne.githistory",
+    "stivo.tailwind-fold"
+  ]
+}
